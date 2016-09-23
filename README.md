@@ -1,2 +1,3 @@
 # hello-world
-This is a first program.
+#This is a second program.
+print "Hello World!"
